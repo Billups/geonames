@@ -46,7 +46,7 @@
     "csv-parse": "^1.1.7",
     "fs-extra": "^0.30.0",
     "geonames-stream": "^2.0.3",
-    "lodash": "^4.2.1",
+    "lodash": "^4.16.5",
     "pelias-config": "2.3.0",
     "pelias-dbclient": "2.0.0",
     "pelias-logger": "0.1.0",
